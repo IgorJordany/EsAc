@@ -1,0 +1,7 @@
+aptidao	produtividade
+22	48
+26	52
+15	25
+19	40
+20	43
+18	30
